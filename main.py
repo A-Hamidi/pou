@@ -7,7 +7,7 @@ col1, col2, col3 = st.columns((1,6,1))
 with col1:
     st.write("")
 with col2:
-    st.image('images/1.gif')
+    st.image('1.gif')
 with col3:
     st.write("")
 
