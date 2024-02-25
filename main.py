@@ -248,7 +248,7 @@ plant_list_name = ('AfricanViolet',
 st.set_page_config(page_title="Pou Planter", page_icon=":potted_plant:")
 
 
-st.image("images/1.gif")
+st.image("1.gif")
 
 
 
